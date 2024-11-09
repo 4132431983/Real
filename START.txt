@@ -1,0 +1,20 @@
+
+python WALLET-INFO.py wallet.dat
+
+python2 WALLET-INFO.py wallet.dat
+
+python3 WALLET-INFO.py wallet.dat
+
+
+mkey: 307afe608908c791184168cdc06066121876e08a69b094c13600014b13513f8677f2ff00ca547f9e26adb801b2a9f107f1081a7893606df2937e00000000d7f5010000
+mk  : 7afe608908c791184168cdc06066121876e08a69b094c13600014b13513f8677f2ff00ca547f9e26adb801b2a9f107f1
+ct  : f2ff00ca547f9e26adb801b2a9f107f1
+salt: 1a7893606df2937e
+iv  : 76e08a69b094c13600014b13513f8677
+rawi: 0001f5d7
+iter: 128471
+Enter the passphrase: test
+Decrypted Master Key: bb99450df585134adbba28721d28cc01
+
+
+Convert Decrypted Key (master key) to WIF key with another scrypt.
